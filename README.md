@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dede F</h1>
-<h3 align="center">A passionate QA and Fullstack</h3>
+<h3 align="center">A passionate QA and FullStack</h3>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dede-firmansah-19150a141/) 
